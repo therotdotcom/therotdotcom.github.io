@@ -1,7 +1,7 @@
 body {
     background-color:lightcoral;
-    font-family: copperplate, fantasy, sans-serif;
-    font-size: xx-large
+    font-family: arial, sans-serif;
+    font-size: large
 }
 table, td, tr{
     border: 1px solid
